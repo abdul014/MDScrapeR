@@ -1,4 +1,3 @@
-# Memuat Paket
 message('Loading Packages')
 library(rvest)
 library(tidyverse)
@@ -6,7 +5,6 @@ library(mongolite)
 
 clean_numeric <- function(x) as.numeric(gsub("[^0-9.-]", "", x))
 
-# Scraping Data
 message('Scraping Data')
 url <- "https://coinmarketcap.com/"
 webpage <- read_html(url)
