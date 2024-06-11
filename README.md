@@ -14,7 +14,7 @@
 
 [Description](#pen-Description)
 •
-[Deskripsi Project](#✍️-project)
+[Deskripsi Project](#writing_hand-project )
 •
 [Dokumen](#📂-Dokument)
 •
@@ -31,7 +31,7 @@
 CoinMarketCap sebagai platform terkemuka, menjadi sumber utama bagi informasi dan analisis harga cryptocurrency, terutama Bitcoin, yang dikenal sebagai mata uang kripto paling populer. Dari data real-time hingga historis, CoinMarketCap menyajikan informasi yang mudah diakses bagi para pengguna. Dengan alat analisis yang disediakan, pengguna dapat dengan mudah memantau tren pasar dan membuat keputusan investasi yang cerdas. Dengan menggunakan teknologi web scraping, pengembang dapat secara otomatis mengambil data harga Bitcoin dari CoinMarketCap untuk melakukan analisis mendalam atau membangun aplikasi baru dalam dunia cryptocurrency. CoinMarketCap, dengan peran pentingnya, memfasilitasi pengambilan keputusan investasi yang lebih cerdas dan menyediakan akses yang mudah ke informasi terkini tentang harga Bitcoin dan cryptocurrency lainnya.
 </p>
 
-## ✍️ project 
+## :writing_hand: project 
 <p align="justify">
 Proyek ini bertujuan untuk menjelajahi lebih dalam analisis harga cryptocurrency, terutama Bitcoin, dengan menggunakan teknik scraping pada website "https://coinmarketcap.com/". Dengan mengakses data langsung dari CoinMarketCap, kita dapat memperoleh wawasan yang mendalam tentang pergerakan harga dan tren pasar. Proyek ini tidak hanya memberikan pemahaman yang lebih baik tentang dinamika pasar cryptocurrency, tetapi juga membuka peluang untuk mengembangkan strategi investasi yang lebih cerdas dan responsif terhadap perubahan pasar. Proyek scraping data harga Bitcoin dari CoinMarketCap bertujuan untuk mengumpulkan berbagai informasi penting yang dapat memberikan wawasan mendalam tentang pasar cryptocurrency. 
 
