@@ -12,7 +12,7 @@
 ## 🪙: Menu
 </p>
 
-[Description](#-pen-Description)
+[Description](#pen-Description)
 •
 [Deskripsi Project](#✍️-project)
 •
