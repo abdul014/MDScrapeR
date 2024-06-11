@@ -12,17 +12,17 @@
 ## 🪙: Menu
 </p>
 
-[Description](#-Description)
+[Description](#Description)
 •
-[Deskripsi Project](#writing_hand-deskripsi-project)
+[Deskripsi Project](#project)
 •
-[Dokumen](#open_file_folder-dokumen)
+[Dokumen](#Dokument)
 •
 [Visualisasi Data Scraping](#bar_chart-visualisasi-data-scraping)
 •
 [PPT](#computer-PPT)
 •
-[Pengembang](#woman_technologist-pengembang)
+[Pengembang](#man_technologist-pengembang)
 
 </div>
 
