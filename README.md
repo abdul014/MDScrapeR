@@ -12,7 +12,7 @@
 ## 🪙: Menu
 </p>
 
-[Description](#🖋️-Description)
+[Description](#-pen-Description)
 •
 [Deskripsi Project](#✍️-project)
 •
@@ -26,7 +26,7 @@
 
 </div>
 
-## 🖋️ Description
+## :pen: Description
 <p align="justify">
 CoinMarketCap sebagai platform terkemuka, menjadi sumber utama bagi informasi dan analisis harga cryptocurrency, terutama Bitcoin, yang dikenal sebagai mata uang kripto paling populer. Dari data real-time hingga historis, CoinMarketCap menyajikan informasi yang mudah diakses bagi para pengguna. Dengan alat analisis yang disediakan, pengguna dapat dengan mudah memantau tren pasar dan membuat keputusan investasi yang cerdas. Dengan menggunakan teknologi web scraping, pengembang dapat secara otomatis mengambil data harga Bitcoin dari CoinMarketCap untuk melakukan analisis mendalam atau membangun aplikasi baru dalam dunia cryptocurrency. CoinMarketCap, dengan peran pentingnya, memfasilitasi pengambilan keputusan investasi yang lebih cerdas dan menyediakan akses yang mudah ke informasi terkini tentang harga Bitcoin dan cryptocurrency lainnya.
 </p>
