@@ -16,7 +16,7 @@
 •
 [Deskripsi Project](#writing_hand-project )
 •
-[Dokumen](#📂-Dokument)
+[Dokumen](#open_file_folder-Dokument)
 •
 [Visualisasi Data Scraping](#bar_chart-visualisasi-data-scraping)
 •
@@ -46,7 +46,7 @@ Data yang diambil meliputi beberapa poin kunci berikut:
 + circulating_supply: Jumlah total Bitcoin yang saat ini beredar di pasar. Ini adalah jumlah koin yang tersedia untuk diperdagangkan dan dipegang oleh pengguna.
  </p> 
  
-## 📂 Dokument
+## :open_file_folder: Dokument
 Berikut adalah salah satu contoh dokument di mongoDB dalam analisis harga cryptocurrency pada bitcoin
 ```mongodb
 {"_id":{"$oid":"665373fac84edcd0f406e7a1"},
