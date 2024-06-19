@@ -18,7 +18,7 @@
 •
 [Dokumen](#open_file_folder-Dokument)
 •
-[Visualisasi Data Scraping](#bar_chart-visualisasi-data-scraping)
+[Visualisasi Data Scraping](#bar_chart-Data-Scraping-Analysis)
 •
 [PPT](#computer-PPT)
 •
@@ -29,6 +29,10 @@
 ## :pen: Description
 <p align="justify">
 CoinMarketCap sebagai platform terkemuka, menjadi sumber utama bagi informasi dan analisis harga cryptocurrency, terutama Bitcoin, yang dikenal sebagai mata uang kripto paling populer. Dari data real-time hingga historis, CoinMarketCap menyajikan informasi yang mudah diakses bagi para pengguna. Dengan alat analisis yang disediakan, pengguna dapat dengan mudah memantau tren pasar dan membuat keputusan investasi yang cerdas. Dengan menggunakan teknologi web scraping, pengembang dapat secara otomatis mengambil data harga Bitcoin dari CoinMarketCap untuk melakukan analisis mendalam atau membangun aplikasi baru dalam dunia cryptocurrency. CoinMarketCap, dengan peran pentingnya, memfasilitasi pengambilan keputusan investasi yang lebih cerdas dan menyediakan akses yang mudah ke informasi terkini tentang harga Bitcoin dan cryptocurrency lainnya.
+</p>
+<p align="center" width="200%">
+    <img width="52%" src="https://imageio.forbes.com/specials-images/imageserve/640f3cdb7ce937b51444b9cd/Decentralized-cryptocurrency-Bitcoin-growing-up-financial-banking-and-crypto-currency/960x0.jpg?format=jpg&width=960">
+     <img width="45%" src="https://www.cointribune.com/app/uploads/2024/05/trading-crypto-1024x683.png">
 </p>
 
 ## :writing_hand: project 
@@ -60,6 +64,9 @@ Berikut adalah salah satu contoh dokument di mongoDB dalam analisis harga crypto
 "volume_24h":{"$numberDouble":"14661305630213056.0"},
 "circulating_supply":{"$numberDouble":"19703909.0"}}
 ```
+## :bar_chart: Data Scraping Analysis
+Berikut merupakan link RPubs data scraping analysis : 
+
 ## :computer: PPT
 Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :
 
