@@ -66,9 +66,11 @@ Berikut adalah salah satu contoh dokument di mongoDB dalam analisis harga crypto
 ```
 ## :bar_chart: Data Scraping Analysis
 Berikut merupakan link RPubs data scraping analysis : 
+https://rpubs.com/abulibuyusufrahman/1199078
 
 ## :computer: PPT
 Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :
+
 
 ## :man_technologist: Pengembang
 [ABD Rahman](https://github.com/abdul014/) (G1501231055)
