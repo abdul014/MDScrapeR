@@ -70,7 +70,7 @@ https://rpubs.com/abulibuyusufrahman/1199078
 
 ## :computer: PPT
 Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :
-
+https://bit.ly/Eksplorasi_MarketCapCrypto
 
 ## :man_technologist: Pengembang
 [ABD Rahman](https://github.com/abdul014/) (G1501231055)
